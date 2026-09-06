@@ -1,3 +1,3 @@
 
 console.log(window.devicePixelRatio);
-console.log('erftrfwerf');
+console.log('привет из основной ветки');
