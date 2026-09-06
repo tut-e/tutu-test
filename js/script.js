@@ -1,3 +1,3 @@
 
 console.log(window.devicePixelRatio);
-console.log('привет из основной ветки');
+console.log('привет из features');
